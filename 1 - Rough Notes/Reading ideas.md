@@ -1,0 +1,1 @@
+-  [From YT video about obsidian](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) - Viktor Frankl - [[Viktor Frankl - A man's search for Meaning]]  - It's not sex that brings up meaning ([[Sigmund Freud]]), it's not power that brings up meaning ([[Alfred Adler]]). Suffering brings up meaning.
