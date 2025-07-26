@@ -8,13 +8,14 @@ Status:
 - it is template class library containg implementation of containers ([[data_structure]]) and [algorithms](algorithm)
 ## Organization
 ### Containers
-- used to store algorithms in accordece with requi
+- used to store algorithms in accordece with requiremets
+- every container is implemented as a class with basic methods inside it's own header file
 ### Algorithms
 ### Iterators
 ### Functors
 
 ---
 ## References
-
+[Geeks](https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/)
 
 
