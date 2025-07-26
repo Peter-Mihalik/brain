@@ -9,7 +9,10 @@ Status:
 - ordering is done by compare method
 ![[sset_compare.jpg]]
 - it has the same [[ADT]] as [[USet]] with one difference in find method
-	- find the smallest element $y$ such that $y>=x$. Return $y$ 
+	- find the smallest element $y$ such that $y>=x$. Return $y$ if such element exists or null
+	- this is called succesor search (returns meaningfull result even if x doesnt exastly match y)
+	- it is slower (logarithmic complexity compared to konstant time of the USet.find(x)) and it has more complex implementation
+- [[Uset]] should be preffered over SSet unless extra functionality provided by find is needed
 
 
 ---
