@@ -6,7 +6,10 @@ Status:
 ---
 # SSet
 - it stores element in order
-- 
+- ordering is done by compare method
+![[sset_compare.jpg]]
+- it has the same [[ADT]] as [[USet]] with one difference in find method
+	- find the smallest element $y$ such that $y>=x$. Return $y$ 
 
 
 ---

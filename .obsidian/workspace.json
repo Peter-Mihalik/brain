@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ConstExpr.md",
+                "file": "SSet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ConstExpr"
+              "title": "Outline of SSet"
             }
           },
           {
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,6 +211,7 @@
   },
   "active": "2003e5d4471ad9b8",
   "lastOpenFiles": [
+    "2 - Source Material/Images/sset_compare.jpg",
     "USet.md",
     "data_structure.md",
     "SSet.md",
@@ -240,7 +242,6 @@
     "6 - Main Notes/string.md",
     "6 - Main Notes/string_view.md",
     "access_functions.md",
-    "access_level.md",
     "2 - Source Material/Images/access_specifiers.jpg",
     "2 - Source Material/Images/pass_value_vs_reference.jpg",
     "6 - Main Notes/wifi.md.new",
