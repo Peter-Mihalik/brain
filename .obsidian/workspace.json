@@ -209,8 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2003e5d4471ad9b8",
+  "active": "f7414929625f2e7b",
   "lastOpenFiles": [
+    "2 - Source Material/PDF/mathematics_for_computer_science.pdf",
+    "2 - Source Material/PDF/calculus_made_easy.pdf",
     "2 - Source Material/Images/sset_compare.jpg",
     "USet.md",
     "data_structure.md",
@@ -253,9 +255,7 @@
     "6 - Main Notes/union.md.new",
     "6 - Main Notes/undefined_behaviour.md.new",
     "6 - Main Notes/type_suffixes.md.new",
-    "6 - Main Notes/typedef.md.new",
     "2 - Source Material/Images/constexpr.jpg",
-    "2 - Source Material/Images/file_modes.jpg",
-    "2 - Source Material/Images/dyn_static_lib_table.png"
+    "2 - Source Material/Images/file_modes.jpg"
   ]
 }
