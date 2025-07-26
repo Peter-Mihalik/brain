@@ -210,8 +210,9 @@
   },
   "active": "4348afba887fc2eb",
   "lastOpenFiles": [
-    "6 - Main Notes/class.md",
+    "6 - Main Notes/array.md",
     "6 - Main Notes/oop.md",
+    "6 - Main Notes/class.md",
     "constructor.md",
     "data_structure.md",
     "member_initializer_list.md",
@@ -239,7 +240,6 @@
     "access_level.md",
     "reference.md",
     "lvalue.md",
-    "muttator.md",
     "2 - Source Material/Images/access_specifiers.jpg",
     "2 - Source Material/Images/pass_value_vs_reference.jpg",
     "6 - Main Notes/wifi.md.new",
