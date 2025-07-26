@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "1c64c0fc81bc86d0",
+            "id": "29b12e6cbd948e98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/class.md",
+                "file": "USet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class"
-            }
-          },
-          {
-            "id": "4348afba887fc2eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/oop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "oop"
+              "title": "USet"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +194,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4348afba887fc2eb",
+  "active": "29b12e6cbd948e98",
   "lastOpenFiles": [
-    "6 - Main Notes/array.md",
-    "6 - Main Notes/oop.md",
-    "6 - Main Notes/class.md",
-    "constructor.md",
+    "2 - Source Material/Images/uset_adt.jpg",
+    "USet.md",
     "data_structure.md",
+    "6 - Main Notes/class.md",
+    "6 - Main Notes/oop.md",
+    "6 - Main Notes/array.md",
+    "constructor.md",
     "member_initializer_list.md",
     "6 - Main Notes/initialization.md",
     "6 - Main Notes/aggregate_initialization.md",
@@ -238,8 +226,6 @@
     "6 - Main Notes/string_view.md",
     "access_functions.md",
     "access_level.md",
-    "reference.md",
-    "lvalue.md",
     "2 - Source Material/Images/access_specifiers.jpg",
     "2 - Source Material/Images/pass_value_vs_reference.jpg",
     "6 - Main Notes/wifi.md.new",
