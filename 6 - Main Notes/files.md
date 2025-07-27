@@ -9,7 +9,7 @@ Status:
 - to open a file you have to instantiate file stream ofject
 - files closes automatically when it goes out of [[scope]] but it is good practice to close to free resources and avoid [[memory_leak]]
 - to manage filesystems use [[filesystem]]
-```
+```cpp
 #incluse <fstream>
 
 // Writing to a file
