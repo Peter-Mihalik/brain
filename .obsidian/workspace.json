@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "data_structure"
             }
-          },
-          {
-            "id": "29b12e6cbd948e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "USet"
-            }
-          },
-          {
-            "id": "2003e5d4471ad9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSet"
-            }
-          },
-          {
-            "id": "e1a0486f5a8b338e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/files.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "files"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,16 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1a0486f5a8b338e",
+  "active": "09a9c4ce95e10765",
   "lastOpenFiles": [
+    "USet.md",
+    "SSet.md",
+    "6 - Main Notes/files.md",
     "STL.md",
     "algorithm.md",
     "6 - Main Notes/cstyle_conversion.md",
-    "SSet.md",
     "2 - Source Material/PDF/mathematics_for_computer_science.pdf",
     "2 - Source Material/PDF/calculus_made_easy.pdf",
     "2 - Source Material/Images/sset_compare.jpg",
-    "USet.md",
     "data_structure.md",
     "2 - Source Material/Images/uset_adt.jpg",
     "6 - Main Notes/class.md",
@@ -258,7 +216,6 @@
     "6 - Main Notes/program_ideas.md",
     "data_visualization_program.md",
     "6 - Main Notes/string.md",
-    "6 - Main Notes/string_view.md",
     "2 - Source Material/Images/access_specifiers.jpg",
     "2 - Source Material/Images/pass_value_vs_reference.jpg",
     "6 - Main Notes/wifi.md.new",
