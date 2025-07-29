@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/range_based_for.md",
+                "file": "tmux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "range_based_for"
+              "title": "tmux"
             }
           }
         ],
@@ -225,6 +225,7 @@
   },
   "active": "1899c395c997aa3e",
   "lastOpenFiles": [
+    "6 - Main Notes/range_based_for.md",
     "6 - Main Notes/vector.md",
     "6 - Main Notes/string.md",
     "for_loop.md",
@@ -255,7 +256,6 @@
     "access_specifiers.md",
     "encapsulation.md",
     "invariant.md",
-    "List.md",
     "2 - Source Material/Images/List_ADT.jpg",
     "2 - Source Material/Images/stack.png",
     "2 - Source Material/Images/priority_q.jpg",
