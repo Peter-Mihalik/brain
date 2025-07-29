@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set_cpp.md",
+                "file": "6 - Main Notes/range_based_for.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set_cpp"
+              "title": "range_based_for"
             }
           }
         ],
@@ -225,11 +225,14 @@
   },
   "active": "1899c395c997aa3e",
   "lastOpenFiles": [
+    "6 - Main Notes/vector.md",
+    "6 - Main Notes/string.md",
+    "for_loop.md",
+    "Set_cpp.md",
     "operator_overloading.md",
     "constructor.md",
     "member_initializer_list.md",
     "overloading.md",
-    "Set_cpp.md",
     "2 - Source Material/Images/set_complexity.jpg",
     "6 - Main Notes/iterators.md",
     "STL.md",
@@ -254,12 +257,9 @@
     "invariant.md",
     "List.md",
     "2 - Source Material/Images/List_ADT.jpg",
-    "6 - Main Notes/list.md",
-    "Queue.md",
     "2 - Source Material/Images/stack.png",
     "2 - Source Material/Images/priority_q.jpg",
     "2 - Source Material/Images/fifo_q.jpg",
-    "ADT.md",
     "2 - Source Material/Images/access_specifiers.jpg",
     "2 - Source Material/Images/pass_value_vs_reference.jpg",
     "6 - Main Notes/wifi.md.new",
