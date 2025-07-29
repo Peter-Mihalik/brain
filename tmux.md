@@ -8,7 +8,7 @@ Status:
 tmux new -s /session_name/ ; create new named session
 tmux attach -t /session_name/ ; attach to existing session
 ## Comands inside tmux
-
+source-file(~/.tmux.conf) ; source file
 
 ---
 ## References
