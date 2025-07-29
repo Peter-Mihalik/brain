@@ -15,6 +15,8 @@ Status:
 	- set_name.insert(Iterator starting, Iterator ending);
 - [initializer list](initialization)
 	- set_name.insert({element1,element2,element3,element4});
+## Difference between insert and emplace
+- 
 ## Accesing elements
 ```cpp
 #include <bits/stdc++.h>
@@ -56,6 +58,7 @@ int main() {
 ## References
 [Geeks](https://www.geeksforgeeks.org/cpp/set-in-cpp-stl/)
 [Geeks - initializing](https://www.geeksforgeeks.org/cpp/different-ways-to-insert-elements-in-set-in-cpp-stl/)
+[[Insert vs Emplace]]
 
 
 
