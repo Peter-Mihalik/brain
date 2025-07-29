@@ -58,7 +58,7 @@ int main() {
 ## References
 [Geeks](https://www.geeksforgeeks.org/cpp/set-in-cpp-stl/)
 [Geeks - initializing](https://www.geeksforgeeks.org/cpp/different-ways-to-insert-elements-in-set-in-cpp-stl/)
-[[Insert vs Emplace]]
+[Insert vs Emplace](https://docs.google.com/document/d/1l2oj04y1GlvM6LTH47GacrLXWtKKLveD8gOEc1vDQpk/edit?tab=t.0)
 
 
 
