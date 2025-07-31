@@ -18,6 +18,6 @@ Status:
 
 ---
 ## References
-
+[Gemini](https://docs.google.com/document/d/1-R3Tm9_YH-RIjLIlODtdDM7HgELjKmGyRit1JLun5XQ/edit?tab=t.0)
 
 
