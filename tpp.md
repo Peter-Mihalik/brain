@@ -4,8 +4,9 @@ Tags: #cpp
 Status:
 
 ---
-# tpp
-- file extension 
+# tpp (Template partial implementation)
+- file extension that hold definitions of [[functions_templates]] and [[class_template]]
+- 
 
 ---
 ## References

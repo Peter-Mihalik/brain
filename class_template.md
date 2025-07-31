@@ -6,6 +6,7 @@ Status:
 ---
 # class_template
 - is a template definition to instantiating [[class]] types (class type is struct, class or union)
+- they can be defined inside [[tpp]] files
 ```cpp
 #include <iostream>
 
@@ -36,6 +37,8 @@ int main()
 - do some more reading from reference
 - because working with pairs of data is common there's standard [[pair]]
 - it makes use of [[CTAD]]
+## Compilation
+- templates are compileted at instantiation that means that compiler has to see the full definition (defined in [[header_file]] or [[tpp]] file)
 ---
 ## References
 [Learn Cpp](https://www.learncpp.com/cpp-tutorial/class-templates/)
