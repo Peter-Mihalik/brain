@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "constructor.md",
+                "file": "lambdas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "constructor"
+              "title": "lambdas"
             }
           }
         ],
@@ -239,9 +239,10 @@
   },
   "active": "5d8085fa682ca606",
   "lastOpenFiles": [
+    "constructor.md",
+    "lambdas.md",
     "exceptions.md",
     "member_initializer_list.md",
-    "constructor.md",
     "6 - Main Notes/wifi.md",
     "tgz.md",
     "data_structure.md",
@@ -270,7 +271,6 @@
     "6 - Main Notes/oop.md",
     "6 - Main Notes/array.md",
     "6 - Main Notes/initialization.md",
-    "6 - Main Notes/aggregate_initialization.md",
     "2 - Source Material/Images/List_ADT.jpg",
     "2 - Source Material/Images/stack.png",
     "2 - Source Material/Images/priority_q.jpg",
