@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,13 +237,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899c395c997aa3e",
+  "active": "5d8085fa682ca606",
   "lastOpenFiles": [
+    "tpp.md",
     "class_template.md",
     "STL.md",
     "data_structure.md",
     "lambdas.md",
-    "tpp.md",
     "overloading.md",
     "tmux.md",
     "constructor.md",
