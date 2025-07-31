@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lambdas.md",
+                "file": "6 - Main Notes/vector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lambdas"
+              "title": "vector"
             }
           }
         ],
@@ -239,11 +239,12 @@
   },
   "active": "5d8085fa682ca606",
   "lastOpenFiles": [
+    "6 - Main Notes/iterators.md",
+    "lambdas.md",
     "tpp.md",
     "class_template.md",
     "STL.md",
     "data_structure.md",
-    "lambdas.md",
     "overloading.md",
     "tmux.md",
     "constructor.md",
@@ -259,7 +260,6 @@
     "Set_cpp.md",
     "operator_overloading.md",
     "2 - Source Material/Images/set_complexity.jpg",
-    "6 - Main Notes/iterators.md",
     "USet.md",
     "SSet.md",
     "6 - Main Notes/files.md",
