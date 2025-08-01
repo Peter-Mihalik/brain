@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/vector.md",
+                "file": "constructor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vector"
+              "title": "constructor"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "5d8085fa682ca606",
   "lastOpenFiles": [
+    "6 - Main Notes/vector.md",
     "6 - Main Notes/iterators.md",
     "lambdas.md",
     "tpp.md",
@@ -254,7 +255,6 @@
     "tgz.md",
     "2 - Source Material/PDF/ods-cpp.pdf",
     "6 - Main Notes/range_based_for.md",
-    "6 - Main Notes/vector.md",
     "6 - Main Notes/string.md",
     "for_loop.md",
     "Set_cpp.md",
