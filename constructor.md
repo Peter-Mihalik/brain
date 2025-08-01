@@ -77,6 +77,11 @@ int main()
 Foo() = defualt;
 ```
 
+## Delegating constructor
+- when we need overloaded const
+```cpp
+```
+
 
 ---
 ## References
