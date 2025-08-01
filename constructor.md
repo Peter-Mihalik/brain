@@ -70,6 +70,11 @@ int main()
 }
 ```
 
+## Explicit defualt constructor
+- when we do not provide constructor to a class compiler will auto generate implicit defualt constuctor (with no parameters, no member initializer list and no statemetns)
+- when we want to have explicit defualt constructor along with others wi
+
+
 ---
 ## References
 [Learn Cpp](https://www.learncpp.com/cpp-tutorial/introduction-to-constructors/)
