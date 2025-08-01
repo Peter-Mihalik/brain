@@ -111,7 +111,19 @@ int main()
 }
 ```
 - first constructo is not allowed to the any member list initialization
-- 
+- be carefull you can create a loop. Chain should end with non-delegating constructor
+## Copy constructor
+- you can initialize class object with the object of the same type
+- you can define your own but it should have no side effects
+```cpp
+// Copy constructor
+    Fraction(const Fraction& fraction)
+        // Initialize our members using the corresponding member of the parameter
+        : m_numerator{ fraction.m_numerator }
+        , m_denominator{ fraction.m_denominator }
+    {
+    }
+```
 
 
 ---
