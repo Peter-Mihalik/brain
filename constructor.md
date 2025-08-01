@@ -78,8 +78,9 @@ Foo() = defualt;
 ```
 
 ## Delegating constructor
-- when we need overloaded const
+- when we need overloaded constructors their code can be redundant whick violates [[DRY]]
 ```cpp
+
 ```
 
 
