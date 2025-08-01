@@ -80,8 +80,38 @@ Foo() = defualt;
 ## Delegating constructor
 - when we need overloaded constructors their code can be redundant whick violates [[DRY]]
 ```cpp
+#include <iostream>
+#include <string>
+#include <string_view>
 
+class Employee
+{
+private:
+    std::string m_name { "???" };
+    int m_id { 0 };
+
+public:
+    Employee(std::string_view name)
+        : Employee{ name, 0 } // delegate initialization to Employee(std::string_view, int) constructor
+    {
+    }
+
+    Employee(std::string_view name, int id)
+        : m_name{ name }, m_id { id } // actually initializes the members
+    {
+        std::cout << "Employee " << m_name << " created\n";
+    }
+
+};
+
+int main()
+{
+    Employee e1{ "James" };
+    Employee e2{ "Dave", 42 };
+}
 ```
+- first constructo is not allowed to the any member list initialization
+- 
 
 
 ---
