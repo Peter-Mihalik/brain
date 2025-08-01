@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "constructor.md",
+                "file": "copy_elision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "constructor"
+              "title": "copy_elision"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "5d8085fa682ca606",
   "lastOpenFiles": [
-    "DRY.md",
     "constructor.md",
+    "copy_elision.md",
+    "DRY.md",
     "6 - Main Notes/vector.md",
     "6 - Main Notes/iterators.md",
     "lambdas.md",
@@ -270,7 +271,6 @@
     "2 - Source Material/PDF/calculus_made_easy.pdf",
     "2 - Source Material/Images/sset_compare.jpg",
     "2 - Source Material/Images/uset_adt.jpg",
-    "6 - Main Notes/class.md",
     "2 - Source Material/Images/List_ADT.jpg",
     "2 - Source Material/Images/stack.png",
     "2 - Source Material/Images/priority_q.jpg",
