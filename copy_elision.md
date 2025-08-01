@@ -5,7 +5,7 @@ Status:
 
 ---
 # copy_elision
-- is 
+- it is compiler optimization technic which reduces uneccessary coping of the object
 
 ---
 ## References

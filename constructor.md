@@ -114,7 +114,7 @@ int main()
 - be carefull you can create a loop. Chain should end with non-delegating constructor
 ## Copy constructor
 - you can initialize class object with the object of the same type
-- you can define your own but it should have no side effects
+- you can define your own but it should have no side effects (because of [[copy_elision]] - call to a copy constructor might be elided and that may change behavior of the program if copy constructor has side effects)
 ```cpp
 // Copy constructor
     Fraction(const Fraction& fraction)
@@ -122,6 +122,7 @@ int main()
         : m_numerator{ fraction.m_numerator }
         , m_denominator{ fraction.m_denominator }
     {
+        std::cout << "Copy constructor called\n"; // just to prove it works
     }
 ```
 
