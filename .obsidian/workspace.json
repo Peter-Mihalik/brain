@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "string"
             }
+          },
+          {
+            "id": "ae2a69daf534d8d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -250,7 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a4d97b46797c67c",
+  "active": "ae2a69daf534d8d8",
   "lastOpenFiles": [
     "constructor.md",
     "copy_elision.md",
