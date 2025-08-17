@@ -90,21 +90,9 @@
               "icon": "lucide-file",
               "title": "string"
             }
-          },
-          {
-            "id": "ae2a69daf534d8d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -263,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae2a69daf534d8d8",
+  "active": "3a4d97b46797c67c",
   "lastOpenFiles": [
     "constructor.md",
     "copy_elision.md",
