@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/string.md",
+                "file": "6 - Main Notes/pacman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "string"
+              "title": "pacman"
             }
           }
         ],
@@ -253,6 +253,7 @@
   },
   "active": "3a4d97b46797c67c",
   "lastOpenFiles": [
+    "6 - Main Notes/string.md",
     "constructor.md",
     "copy_elision.md",
     "DRY.md",
@@ -271,7 +272,6 @@
     "tgz.md",
     "2 - Source Material/PDF/ods-cpp.pdf",
     "6 - Main Notes/range_based_for.md",
-    "6 - Main Notes/string.md",
     "for_loop.md",
     "Set_cpp.md",
     "operator_overloading.md",
