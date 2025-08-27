@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "pacman"
             }
+          },
+          {
+            "id": "454ce3e3a027f9d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a4d97b46797c67c",
+  "active": "454ce3e3a027f9d6",
   "lastOpenFiles": [
     "6 - Main Notes/string.md",
     "constructor.md",
