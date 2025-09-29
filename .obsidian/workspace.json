@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTAD.md",
+                "file": "6 - Main Notes/pacman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CTAD"
+              "title": "pacman"
             }
           }
         ],
@@ -254,6 +254,7 @@
   },
   "active": "3a4d97b46797c67c",
   "lastOpenFiles": [
+    "CTAD.md",
     "data_structure.md",
     "Queue.md",
     "6 - Main Notes/linux_terminal_keybinds.md",
@@ -281,7 +282,6 @@
     "Set_cpp.md",
     "operator_overloading.md",
     "2 - Source Material/Images/set_complexity.jpg",
-    "USet.md",
     "2 - Source Material/PDF/mathematics_for_computer_science.pdf",
     "2 - Source Material/PDF/calculus_made_easy.pdf",
     "2 - Source Material/Images/sset_compare.jpg",
