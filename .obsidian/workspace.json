@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/pacman.md",
+                "file": "tmux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pacman"
+              "title": "tmux"
             }
           }
         ],
@@ -254,12 +254,12 @@
   },
   "active": "3a4d97b46797c67c",
   "lastOpenFiles": [
+    "6 - Main Notes/pacman.md",
     "CTAD.md",
     "data_structure.md",
     "Queue.md",
     "6 - Main Notes/linux_terminal_keybinds.md",
     "SSet.md",
-    "6 - Main Notes/pacman.md",
     "6 - Main Notes/string.md",
     "constructor.md",
     "copy_elision.md",
