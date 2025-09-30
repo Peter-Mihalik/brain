@@ -4,4 +4,4 @@ Strunktura programu:
 
 RPO API:
 - data z rozlicnych registrov (aj zivnostnici)
-- paging (neviem)
+- paging (neviem), kosice a presov viac ako 500 (neviem aky paging pouziva)
