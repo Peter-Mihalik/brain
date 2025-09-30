@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmux.md",
+                "file": "README - ads-app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux"
+              "title": "README - ads-app"
             }
           }
         ],
@@ -254,6 +254,8 @@
   },
   "active": "3a4d97b46797c67c",
   "lastOpenFiles": [
+    "tmux.md",
+    "README - ads-app.md",
     "6 - Main Notes/pacman.md",
     "CTAD.md",
     "data_structure.md",
@@ -271,7 +273,6 @@
     "class_template.md",
     "STL.md",
     "overloading.md",
-    "tmux.md",
     "exceptions.md",
     "member_initializer_list.md",
     "6 - Main Notes/wifi.md",
@@ -280,7 +281,6 @@
     "6 - Main Notes/range_based_for.md",
     "for_loop.md",
     "Set_cpp.md",
-    "operator_overloading.md",
     "2 - Source Material/Images/set_complexity.jpg",
     "2 - Source Material/PDF/mathematics_for_computer_science.pdf",
     "2 - Source Material/PDF/calculus_made_easy.pdf",
