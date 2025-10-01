@@ -5,3 +5,5 @@ Strunktura programu:
 RPO API:
 - data z rozlicnych registrov (aj zivnostnici)
 - paging (neviem), kosice a presov viac ako 500 (neviem aky paging pouziva)
+FETCHOVANIE DAT (SEEDER):
+- vytvorenie interface pre fetchnuty json (na uspokojenie typescriptu)
