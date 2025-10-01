@@ -7,3 +7,4 @@ RPO API:
 - paging (neviem), kosice a presov viac ako 500 (neviem aky paging pouziva)
 FETCHOVANIE DAT (SEEDER):
 - vytvorenie interface pre fetchnuty json (na uspokojenie typescriptu)
+- vytvorenie rpoRaw interface pre zachovanie type safty, a nasledna transformacia na 
