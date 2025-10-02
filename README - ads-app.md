@@ -8,3 +8,5 @@ RPO API:
 FETCHOVANIE DAT (SEEDER):
 - vytvorenie interface pre fetchnuty json (na uspokojenie typescriptu)
 - vytvorenie rpoRaw interface pre zachovanie type safty (konverter cez web), a nasledna transformacia na CompanyData[] na ocistenie dat
+- vyber najaktualnejsich dat (adresy, identifier, fullname)
+- typescript generics
