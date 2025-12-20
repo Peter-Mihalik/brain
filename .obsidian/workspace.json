@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "string"
             }
+          },
+          {
+            "id": "816ddb0289ef858d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -242,6 +254,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -251,7 +264,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a4d97b46797c67c",
+  "active": "816ddb0289ef858d",
   "lastOpenFiles": [
     "README - ads-app.md",
     "constructor.md",
