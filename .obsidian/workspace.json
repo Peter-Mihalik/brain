@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba342c15e2ad2dcd",
+        "id": "f78b51ecedfaa90b",
         "type": "tabs",
         "children": [
           {
-            "id": "0faafb0e8148e9ce",
+            "id": "92719b8417d7d846",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "AI Video Gen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "AI Video Gen"
             }
           }
         ]
@@ -179,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0faafb0e8148e9ce",
+  "active": "92719b8417d7d846",
   "lastOpenFiles": [
+    "AI Video Gen.md",
     "data_structure.md",
     "STL.md",
     "class_template.md",
@@ -208,7 +211,6 @@
     "USet.md",
     "SSet.md",
     "6 - Main Notes/files.md",
-    "algorithm.md",
     "2 - Source Material/PDF/mathematics_for_computer_science.pdf",
     "2 - Source Material/PDF/calculus_made_easy.pdf",
     "2 - Source Material/Images/sset_compare.jpg",
